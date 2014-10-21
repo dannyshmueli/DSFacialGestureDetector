@@ -9,7 +9,8 @@ Ever since i was wondering if i could "feed" it streaming video and maybe make N
 
 This is a basic version of it:
 
-[![ScreenShot](http://img.youtube.com/vi/cdzPRymOC7o/0.jpg)](http://youtu.be/cdzPRymOC7o)
+![:youtube 600x400](cdzPRymOC7o)
+
 
 
 ### Installing:
