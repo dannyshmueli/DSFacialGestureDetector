@@ -7,22 +7,25 @@ In iOS7 Apple introduced new face features detection to the [CIDetecor](https://
 
 Ever since i was wondering if i could "feed" it streaming video and maybe make NEW kind of gestures- facial gestures.
 
-This is a basic version of it.
+This is a basic version of it:
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/cdzPRymOC7o/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_cdzPRymOC7o)
 
 
 ### Installing:
 
-//Using cocoapods:
+Using cocoapods: (coming soon)
 
-//#`pod install 'DSFacialGestures'`
+`pod install 'DSFacialGestures'`
 
-import all the files under the Detector directory to your project.
+or import all the files under the Detector directory to your project.
 
 ### Using:
 
-1. in your view controler:
-2. * implement: `<DSFacialDetectorDelegate>`
+In your view controler:
+
+1. implement: `<DSFacialDetectorDelegate>`
+2. init:
 
 ```objc
 self.facialGesturesDetector = [DSFacialGesturesDetector new];
