@@ -9,9 +9,8 @@ Ever since i was wondering if i could "feed" it streaming video and maybe make N
 
 This is a basic version of it:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=cdzPRymOC7o
-" target="_blank"><img src="http://img.youtube.com/vi/cdzPRymOC7o/0.jpg" 
-alt="Demo" width="480" height="360" border="10" /></a>
+[![ScreenShot](http://img.youtube.com/vi/cdzPRymOC7o/0.jpg)](http://youtu.be/cdzPRymOC7o)
+
 
 ### Installing:
 
