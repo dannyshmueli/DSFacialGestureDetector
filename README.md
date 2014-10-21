@@ -11,6 +11,9 @@ This is a basic version of it:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/cdzPRymOC7o/0.jpg)](http://www.youtube.com/watch?v=cdzPRymOC7o)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cdzPRymOC7o
+" target="_blank"><img src="http://img.youtube.com/vi/cdzPRymOC7o/0.jpg" 
+alt="Demo" width="480" height="360" border="10" /></a>
 
 ### Installing:
 
