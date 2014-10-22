@@ -24,7 +24,7 @@
 const static int kNumberOfRecordsToStore = 30;
 const static float kTimeNeedsToSmile = 3;
 const static float kTimeNeedsToWink = 2.0f;
-const static float kMaxTimeBetweenConsecutiveGesturesMutiplier = 4.0f;
+const static float kMaxTimeBetweenConsecutiveGesturesMutiplier = 2.0f;
 
 #pragma mark - API
 
