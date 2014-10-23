@@ -17,7 +17,7 @@ This is a basic version of it:
 
 Using cocoapods:
 
-`pod install 'DSFacialGestureDetector'`
+`pod 'DSFacialGestureDetector'`
 
 or import all the files under the Detector directory to your project.
 
