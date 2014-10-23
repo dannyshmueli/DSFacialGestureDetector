@@ -15,9 +15,9 @@ This is a basic version of it:
 
 ### Installing:
 
-Using cocoapods: (coming soon)
+Using cocoapods:
 
-`pod install 'DSFacialGestures'`
+`pod install 'DSFacialGestureDetector'`
 
 or import all the files under the Detector directory to your project.
 
@@ -25,7 +25,10 @@ or import all the files under the Detector directory to your project.
 
 In your view controler:
 
+1. `#import <DSFacialGestureDetector/DSFacialGesturesDetector.h>`
+
 1. implement: `<DSFacialDetectorDelegate>`
+
 2. init:
 
 ```objc
