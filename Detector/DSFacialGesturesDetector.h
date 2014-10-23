@@ -7,10 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <AVFoundation/AVFoundation.h>
 #import "DSFacialGesture.h"
 
 @class UIView;
+@class UIImage;
 
 @protocol DSFacialDetectorDelegate <NSObject>
 
