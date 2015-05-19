@@ -30,6 +30,9 @@ const float kTimeToDissmissDetectedGestureLabel = 2.6f;
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    CGRect screen = [[UIScreen mainScreen] bounds];
+    self.cameraPreview.bounds = screen;
+    
     self.facialGesturesDetector = [DSFacialGesturesDetector new];
     self.facialGesturesDetector.delegate = self;
     self.facialGesturesDetector.cameraPreviewView = self.cameraPreview;
