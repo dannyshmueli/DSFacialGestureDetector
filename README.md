@@ -7,9 +7,6 @@ In iOS7 Apple introduced new face features detection to the [CIDetecor](https://
 
 Ever since i was wondering if i could "feed" it streaming video and maybe make NEW kind of gestures- facial gestures.
 
-This is a basic version of it:
-
-[![ScreenShot](http://img.youtube.com/vi/cdzPRymOC7o/0.jpg)](http://youtu.be/cdzPRymOC7o)
 
 
 
